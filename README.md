@@ -1,2 +1,2 @@
 # July-s-Leetcode-Solutions-
-Java Solutions to july leetcode challenge
+CPP Solutions to july leetcode challenge
